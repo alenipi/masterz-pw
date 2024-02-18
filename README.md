@@ -22,7 +22,11 @@ Una volta concluso il pagamento all’ utente viene inviato l’NFT
 
 ## HOW TO USE
 
-1. Go to the demo link: 
+1. Go to the demo link: https://bafybeightalbqzhhcjyvxqlowr6xkw7f6z6cxes245ybbtxvre27a7xnoa.ipfs.cf-ipfs.com/
+or clone this project to your pc and run:
+    - yarn install or npm install;
+    - npm run dev
+    - TEST IT OUT!
 
 2. To mint the NFT press the Navbar link "mint", populate the form and press "Mint NFT" - wait until confimation
 
