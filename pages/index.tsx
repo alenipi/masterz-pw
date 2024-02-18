@@ -37,7 +37,7 @@ const Home: NextPage = () => {
               <div className={styles.heroCtaContainer}>
                 <Link
                   className={styles.secondaryCta}
-                  href="https://github.com/thirdweb-example/marketplace-v3"
+                  href="https://github.com/alenipi/masterz-pw"
                   target="_blank"
                 >
                   GitHub

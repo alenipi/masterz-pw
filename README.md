@@ -22,7 +22,7 @@ Una volta concluso il pagamento all’ utente viene inviato l’NFT
 
 ## HOW TO USE
 
-1. Go to the demo link: https://bafybeightalbqzhhcjyvxqlowr6xkw7f6z6cxes245ybbtxvre27a7xnoa.ipfs.cf-ipfs.com/
+1. Go to the demo link: ipfs://bafybeif5aobqfgbanuntj3xibg27ramcwsmrtz26o5jjiy752mhguyw3b4/
 or clone this project to your pc and run:
     - yarn install or npm install;
     - npm run dev
