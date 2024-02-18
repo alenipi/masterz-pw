@@ -122,7 +122,7 @@ export default function Minter() {
                     },
                     to: address, // Use useAddress hook to get current wallet address
                 }).then(() => {
-                    alert("NFT minted!");
+                    alert("NFT minted! Go to your profile");
                     setMintingNFT(false);
                     setImageUrl(null);
                     setNftName("");
